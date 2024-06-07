@@ -52,5 +52,5 @@ StatChat不仅涵盖统计学的基础知识，还扩展到了与统计学紧密
 ## 测试链接
 
 ```text
-https://xxx.com/xxx/xxx.xxx
+
 ```
